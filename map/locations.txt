@@ -1,0 +1,11 @@
+Name,Long,Lat
+Dartmoor National Park,50.59490,-3.68893
+Bristol,51.44889,-2.58330
+Cardiff,51.48738,-3.19175
+Glasgow,55.87326,-4.28901
+Keyworth,52.87877,-1.07860
+Leeds,53.7949385,-1.5466345
+London,51.51119,-0.08209
+Manchester,53.46438,-2.22708
+Southampton,50.93812,-1.47032
+Worcester,52.18923,-2.22680
