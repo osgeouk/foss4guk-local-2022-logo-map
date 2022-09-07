@@ -1,5 +1,4 @@
-# foss4guk-local-2022-logo-map
-Repo for FOSS4G:UK Local 2022 logo and map
+# FOSS4G:UK Local 2022 Logo and Map
 
 Howdy all :-)
 
